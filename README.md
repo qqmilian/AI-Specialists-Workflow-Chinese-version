@@ -1,13 +1,18 @@
-# AI 智能体专家团队（中文版）
+# agency-agents 中文版（AI 智能体专家团队）
 
 > **你的 AI 梦之队** — 从前端开发到区块链安全，从小红书运营到抖音策略，每个智能体都是一位拥有独特个性、专业流程和可交付成果的专家。
+
+Chinese community edition of [agency-agents](https://github.com/msitarzewski/agency-agents), including full translations and China-platform specific AI agents (Xiaohongshu, Douyin, WeChat, Bilibili, etc.).
 
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=social)](https://github.com/jnMetaCode/agency-agents-zh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-> 本项目基于 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)（MIT 协议）翻译并本土化，新增了中国平台专属智能体。
-> 当前收录 **146 个智能体**（127 个上游翻译 + 19 个中国市场原创）。
+### 📊 项目规模
+
+| 🤖 AI 智能体 | 🌏 英文版翻译 | 🇨🇳 中国平台原创 | 🧠 支持工具 |
+|:---:|:---:|:---:|:---:|
+| **146** | **127** | **19** | **10 种** |
 
 ---
 
